@@ -29,5 +29,6 @@ Outlet_Type: Nature of the outlet (e.g., Grocery Store, Supermarket).
 Target Variable:
 
 Item_Outlet_Sales: Total sales of each product in the corresponding outlet.
+
 Use Case: Analyzing factors influencing product sales across outlets for improved inventory management and sales forecasting.
 
