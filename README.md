@@ -1,7 +1,7 @@
 # BigSalesPrediction
 Dataset Overview: Sales data for various products across multiple retail outlets.
 
-Key Features:
+Key Features: 
 
 Item_Identifier: Unique ID for each product.
 
